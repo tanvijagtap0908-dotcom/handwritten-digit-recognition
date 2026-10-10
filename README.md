@@ -74,5 +74,6 @@ This project demonstrates a complete introductory deep learning workflow, from l
 This project was developed for educational and portfolio purposes.
 
 ## Project Screenshots
-<img width="960" height="476" alt="Screenshot 2026-10-10 141334" src="https://github.com/user-attachments/assets/f860c9d9-bd11-43ee-92b5-1b57f84d2673" />
-<img width="960" height="473" alt="Screenshot 2026-10-10 141236" src="https://github.com/user-attachments/assets/107f0234-a6ed-4d06-afa8-3821f7776885" />
+<img width="960" height="476" alt="Screenshot 2026-10-10 141334" src="https://github.com/user-attachments/assets/c5572eee-380b-489a-b283-dd42e835e6c9" />
+<img width="960" height="473" alt="Screenshot 2026-10-10 141236" src="https://github.com/user-attachments/assets/258efea8-2c16-4a24-b1f1-32140d2fe3b0" />
+
